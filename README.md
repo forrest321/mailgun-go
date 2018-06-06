@@ -2,8 +2,8 @@
 
 ===============
 
-[![Build Status](https://img.shields.io/travis/forrest321/mailgun-go/master.svg)](https://travis-ci.org/forrest321/mailgun-go)
-[![Go Report Card](https://goreportcard.com/badge/github.com/forrest321/mailgun-go)](https://goreportcard.com/report/github.com/forrest321/mailgun-go)
+[![Build Status](https://img.shields.io/travis/mailgun/mailgun-go/master.svg)](https://travis-ci.org/mailgun/mailgun-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/mailgun/mailgun-go)](https://goreportcard.com/report/github.com/mailgun/mailgun-go)
 [![GoDoc](https://godoc.org/gopkg.in/mailgun/mailgun-go.v1?status.svg)](https://godoc.org/gopkg.in/mailgun/mailgun-go.v1)
 
 Go library for interacting with the [Mailgun](https://mailgun.com/) [API](https://documentation.mailgun.com/api_reference.html).

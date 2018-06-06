@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	mailgun "github.com/forrest321/mailgun-go"
+	mailgun "github.com/mailgun/mailgun-go"
 	"github.com/thrawn01/args"
 )
 

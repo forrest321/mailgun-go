@@ -6,11 +6,12 @@ import (
 	"os"
 
 	"github.com/drhodes/golorem"
-	"github.com/forrest321/mailgun-go"
+	"github.com/mailgun/mailgun-go"
 	"github.com/pkg/errors"
 	"github.com/thrawn01/args"
 )
 
+// Send emails via the mailgun HTTP API
 func Send(parser *args.ArgParser, data interface{}) (int, error) {
 	mg := data.(mailgun.Mailgun)
 	var content []byte
